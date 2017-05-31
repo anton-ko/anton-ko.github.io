@@ -7,6 +7,9 @@
 .form-buttons {
     margin-bottom: 2rem;
 }
+.form-buttons button {
+    margin-right: 2rem;
+}
 footer {
     margin-top: 2rem;
 }
