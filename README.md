@@ -1,3 +1,3 @@
-# Anton Kolmakov Consulting
+# Anton Kolmakov
 
 Hi, my name is Anton.
